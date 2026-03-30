@@ -4,6 +4,9 @@ const server = jsonServer.create()
 const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
 
+server.get('/health', (req, res) => {
+  res.status(200).json({ status: 'ok' })
+})
 const PORT = process.env.PORT || 3000
 
 server.use(middlewares)
