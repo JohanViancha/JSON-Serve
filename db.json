@@ -1,0 +1,50 @@
+{
+  "funds": [
+    {
+      "id": "1",
+      "name": "FPV_BTG_PACTUAL_RECAUDADORA",
+      "minimumAmount": 75000,
+      "category": "Fondo de Pensiones Voluntarias",
+      "isSubscribed": false,
+      "amountInvested": 0
+    },
+    {
+      "id": "2",
+      "name": "FPV_BTG_PACTUAL_ECOPETROL",
+      "minimumAmount": 125000,
+      "category": "Fondo de Pensiones Voluntarias",
+      "isSubscribed": false,
+      "amountInvested": 0
+    },
+    {
+      "id": "3",
+      "name": "DEUDAPRIVADA",
+      "minimumAmount": 50000,
+      "category": "Fondo de Inversión Colectiva",
+      "isSubscribed": false,
+      "amountInvested": 0
+    },
+    {
+      "id": "4",
+      "name": "FDO-ACCIONES",
+      "minimumAmount": 250000,
+      "category": "Fondo de Inversión Colectiva",
+      "isSubscribed": false,
+      "amountInvested": 0
+    },
+    {
+      "id": "5",
+      "name": " FPV_BTG_PACTUAL_DINAMICA",
+      "minimumAmount": 100000,
+      "category": "Fondo de Pensiones Voluntarias",
+      "isSubscribed": false,
+      "amountInvested": 0
+    }
+  ],
+  "transactions": [],
+  "balance": {
+    "available": 500000,
+    "hasMadeFirstTransaction": false,
+    "lastUpdated": "2026-03-24T05:29:22.443Z"
+  }
+}
